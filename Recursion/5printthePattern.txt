@@ -1,0 +1,56 @@
+Print the pattern
+
+Difficulty: EasyMax Score: 25
+25 Points
+Problem Description
+Using recursion, print the given pattern.
+
+Input Format
+
+First line contains integer n, representing rows of the given pattern
+
+Output Format
+
+Display the given pattern.
+
+
+Example
+Example 1
+
+Input
+5
+
+Output
+* 
+* * 
+* * * 
+* * * * 
+* * * * *
+
+
+Explanation
+The number of rows given is 5.
+
+
+Example 2
+
+Input
+3
+
+Output
+* 
+* * 
+* * *
+
+Explanation
+The number of rows given is 3.
+
+
+Problem Constraints
+1 <= n <= 10^2
+
+
+Topics
+ArrayBasicsRecursion
+Company
+AccentureCapgemini

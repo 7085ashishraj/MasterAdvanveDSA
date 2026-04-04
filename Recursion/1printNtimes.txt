@@ -1,0 +1,35 @@
+Print n times:-
+Difficulty: EasyMax Score: 25
+25 Points
+Problem Description
+Write a recursive program to print the word "AlgoTutor" K times. Take an integer input, K, 
+from the user and create a recursive function to print "AlgoTutor" K times.
+Input Format
+A single line containing the integer K.
+Output Format
+Print the word "AlgoTutor" K times, each on a new line.
+Example
+Example 1
+
+Input
+4
+
+Output
+AlgoTutor
+AlgoTutor
+AlgoTutor
+AlgoTutor
+
+
+Example 2
+
+Input
+2
+
+Output
+AlgoTutor
+AlgoTutor
+
+
+Problem Constraints
+1 <= |N| <= 10^4

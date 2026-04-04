@@ -1,0 +1,45 @@
+Print between A & B
+
+Difficulty: EasyMax Score: 25
+25 Points
+Problem Description
+Write a recursive program to print all integers in the range from A to B (where A <= B). Take input for A and B from the user and print all the integers between A and B using a recursive function.
+
+Input Format
+
+First line contains an integer A (A > 0)
+Second line contains an integer B (B > 0)
+Output Format
+
+Print the numbers between A and B, each separated by a single space.
+
+
+Example
+Example 1
+
+Input
+3
+6
+
+Output
+3 4 5 6
+
+Explanation
+The numbers between 3 and 6, inclusive, are 3, 4, 5, and 6.
+
+
+Example 2
+
+Input
+7
+7
+
+Output
+7
+
+Explanation
+The only number in the range from 7 to 7 is 7.
+
+
+Problem Constraints
+1 <= A <= B <= 10^6

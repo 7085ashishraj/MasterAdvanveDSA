@@ -1,0 +1,41 @@
+Recursively Print Numbers In Reverse
+
+Difficulty: EasyMax Score: 25
+25 Points
+Problem Description
+Create a recursive program to print all numbers starting from M down to 1. Print the numbers in descending order from M until you reach 1.
+
+Input Format
+
+The input consists of a single integer M.
+
+Output Format
+
+Print the numbers from M to 1 in descending order, separated by a single space.
+
+
+Example
+Example 1
+
+Input
+4
+
+Output
+4 3 2 1
+
+
+Example 2
+
+Input
+7
+
+Output
+7 6 5 4 3 2 1
+
+
+Problem Constraints
+1 <= M <= 1000
+
+
+Topics
+Recursion
