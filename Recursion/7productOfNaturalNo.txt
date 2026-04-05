@@ -1,0 +1,47 @@
+Product of natural numbers 
+
+Difficulty: EasyMax Score: 25
+25 Points
+Problem Description
+Create a recursive program to compute the product of all natural numbers up to K. Write a recursive function that calculates and returns the product of all natural numbers from K down to 1.
+
+Input Format
+
+Enter an integer K (K > 0).
+
+Output Format
+
+Print the product of all natural numbers from K down to 1 (both included).
+
+
+Example
+Example 1
+
+Input
+3
+
+Output
+6
+
+Explanation
+3 * 2 * 1 = 6
+
+
+Example 2
+
+Input
+6
+
+Output
+720
+
+Explanation
+6 * 5 * 4 * 3 * 2 * 1 = 720
+
+
+Problem Constraints
+1 <= N <= 14
+
+
+Topics
+Recursion

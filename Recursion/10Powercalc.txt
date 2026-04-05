@@ -1,0 +1,50 @@
+Power Calculation
+
+Difficulty: EasyMax Score: 25
+25 Points
+Problem Description
+You are given two integers, A and B. You need to find B raised to the power A in O(A)O(A)O(A) time complexity using recursion.
+
+Note: Complete the given function and use recursion to solve this problem. It is guaranteed that the test cases are constructed such that the result does not overflow a 64-bit integer datatype.
+
+Input Format
+
+The first line contains two integers, A and B.
+
+Output Format
+
+Print the result.
+
+
+Example
+Example 1
+
+Input
+3 4
+
+Output
+81
+
+Explanation
+3 raised to the power 4 is 81.
+
+
+Example 2
+
+Input
+5 2
+
+Output
+25
+
+Explanation
+5 raised to the power 2 is 25.
+
+
+Problem Constraints
+1 <= A <= 64
+1 <= B <= 10^8
+
+
+Topics
+Recursion

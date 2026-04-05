@@ -1,0 +1,49 @@
+Recursive Multiplication
+
+Difficulty: EasyMax Score: 30
+30 Points
+Problem Description
+You are given two integers A and B. Calculate and return their multiplication using recursion.
+
+Input Format
+
+The first line contains A.
+
+The second line contains B.
+
+Output Format
+
+Print the product.
+
+
+Example
+Example 1
+
+Input
+
+10
+20
+
+Output
+
+200
+
+Example 2
+
+Input
+
+40 
+
+4
+
+Output
+
+160
+
+
+Problem Constraints
+1 <= N, M <= 10000
+
+
+Topics
+Recursion
